@@ -1,0 +1,22 @@
+{
+  "name": "ddmoment",
+  "version": "1.0.0",
+  "description": "Share your DD moment",
+  "scripts": {
+    "start":"concurrently \"npm start dev --prefix api_server\" \"npm start serve --prefix client\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssysm/ddmoment.git"
+  },
+  "author": "ssysm",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ssysm/ddmoment/issues"
+  },
+  "homepage": "https://github.com/ssysm/ddmoment#readme",
+  "devDependencies": {
+    "@angular/cli": "^1.5.3",
+    "concurrently": "^3.5.0"
+  }
+}
