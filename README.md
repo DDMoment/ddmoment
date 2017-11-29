@@ -1,4 +1,5 @@
 # ddmoment
+<<<<<<< HEAD
 dd圈 看看大家每天d谁
 
 正在策划项目
@@ -9,3 +10,6 @@ dd圈 看看大家每天d谁
 -前台栈：Angular5
 
 # 任何tips和建议请开issue
+=======
+DD圈 - DD Moment,分享大家的DD时光
+>>>>>>> f68266796dd0fc453aa72b80faec283bc62cde91
